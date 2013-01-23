@@ -1,1 +1,1 @@
-web: node benc2json.js
+web: node lib/benc2json.js
