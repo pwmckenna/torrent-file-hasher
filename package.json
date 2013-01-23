@@ -1,0 +1,39 @@
+{
+  "name": "benc2json",
+  "description": "Converts remote resources from bencoding to json",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pwmckenna/benc2json",
+  "author": {
+    "name": "Patrick Williams",
+    "email": "pwmckenna@gmail.com",
+    "url": "http://pwmckenna.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pwmckenna/benc2json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pwmckenna/benc2json/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/pwmckenna/benc2json/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/benc2json",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.17"
+  },
+  "keywords": [],
+  "dependencies": {
+    "bencode": "~0.4.0",
+    "lodash": "~1.0.0-rc.3"
+  }
+}
