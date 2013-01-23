@@ -34,6 +34,7 @@
   "keywords": [],
   "dependencies": {
     "bencode": "~0.4.0",
-    "lodash": "~1.0.0-rc.3"
+    "lodash": "~1.0.0-rc.3",
+    "url": "~0.7.9"
   }
 }
