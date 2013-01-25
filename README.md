@@ -2,19 +2,11 @@
 
 Converts remote resources from bencoding to json
 
-## Getting Started
-Install the module with: `npm install benc2json`
+Currently hosted on Heroku.
 
-```javascript
-var benc2json = require('benc2json');
-benc2json.awesome(); // "awesome"
-```
+##Usage
+http://benc-to-json.herokuapp.com/?url=http://www.clearbits.net/get/1598-2205-bittorrent-edition.torrent
 
-## Documentation
-_(Coming soon)_
-
-## Examples
-_(Coming soon)_
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [grunt](https://github.com/gruntjs/grunt).
