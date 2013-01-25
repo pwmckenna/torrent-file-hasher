@@ -1,4 +1,4 @@
-# benc2json
+# benc-to-json
 
 Converts remote resources from bencoding to json
 
