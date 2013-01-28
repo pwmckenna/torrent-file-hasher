@@ -21,7 +21,7 @@
       "url": "https://github.com/pwmckenna/torrent-file-hasher/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/torrent-file-hasher",
+  "main": "torrent-file-hasher",
   "engines": {
     "node": "0.8.x",
     "npm": "1.1.x"
