@@ -1,1 +1,1 @@
-web: node torrent-file-hasher.js
+web: node lib/torrent-file-hasher.js
