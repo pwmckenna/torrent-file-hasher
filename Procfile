@@ -1,1 +1,1 @@
-web: node lib/benc2json.js
+web: node lib/torrent-file-hasher.js
