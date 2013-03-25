@@ -198,7 +198,8 @@ var buf2str = function(torrent, path) {
  * @param (function(err, torrent)) callback
  */
 var validate = exports.validate = function(torrent, callback) {
-  return;
+  return callback(null, new Torrent(torrent));
+  
   var errmsg = checkTorrent(torrent);
   if (errmsg !== null) {
     var err = new Error(errmsg);
